@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **react skills**
 
-- 🌱 I’m currently studying [at O'clock School](https://oclock.io/)
+- 🌱 I’m currently studying at [O'clock School](https://oclock.io/)
 
 - 💬 Ask me about **Data**
 
