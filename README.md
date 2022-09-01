@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **react skills**
 
-- 🌱 I’m currently studying at [O'clock School](https://oclock.io/)
+- 🌱 I’m currently studying [at O'clock School](https://oclock.io/)
 
 - 💬 Ask me about **Data**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salomé leconte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salomé leconte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salomeleconte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salomeleconte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
