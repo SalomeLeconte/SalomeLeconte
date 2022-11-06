@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salomé</h1>
-<h3 align="center">French { FrontEnd } Student 💻</h3>
+<h3 align="center">French { Front End } Developer 💻</h3>
 
 - 🔭 I’m currently working on my **react skills**
 
